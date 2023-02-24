@@ -108,7 +108,7 @@ public class Main {
     } */
 // 1. Pedir al usuario nombre, apellido, domicilio y precio de su carro
 // 2. Calcular el impuesto de tenencia que es igual a 1.3% de lo que cuesta el carro
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
 
         String nombre;
         String apellido;
@@ -138,6 +138,15 @@ public class Main {
         System.out.println("El domicilio es: " + domicilio);
         System.out.println("La tenencia es: " + tenenciaUser);
 
-    }
+    } */
+    public static void main(String[] args) {
+        int a=10;
+        int b=5;
+        int c=3;
 
+        if(a>b){
+            System.out.println("a es mayor que b");
+        }else{
+            System.out.println("a no es mayor que b");}
+    }
 }
