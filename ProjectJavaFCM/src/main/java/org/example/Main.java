@@ -1,7 +1,7 @@
 package org.example;
 import java.util.*;
 public class Main {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         //Desarrolla un programa que le pregunte al usuario 3 numeros
         // describe cual es mayor de los 3
 
@@ -42,8 +42,34 @@ public class Main {
         }
 
 */
-        for (int i = 0; i < 10 ; i++){
-            System.out.println("Int vale: "+i);
+
+       /* int edad;
+
+        Scanner scanner = new Scanner(System.in);
+
+        for (int i = 0; i < 4; i++) {
+            System.out.println("Ingrese su edad: ");
+            edad = scanner.nextInt();
+
+            if (edad > 17) {
+                System.out.println("Eres mayor de edad");
+            }
+            else {
+                System.out.println("Eres menor de edad");
+            }
         }
+        */
+        Scanner scanner = new Scanner(System.in);
+        double miArray double [] = new double [7];
+        for (int i = 0; i<7; i++) {
+            miArray double [i] = scanner.nextDouble();
     }
     }
+
+
+
+
+
+
+    }
+
