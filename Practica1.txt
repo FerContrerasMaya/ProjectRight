@@ -1,0 +1,7 @@
+Branch: Crea, enumera y elimina tamas
+
+Fetch: Descarga contenidos desde un repositorio
+
+Merge: permite crear una rama nueva
+
+Pull: Tomas las lineas independientes de desarrollo creadas por git branch
